@@ -24,6 +24,14 @@ var wms_layers = [];
                 url: 'https://mt1.google.com/vt/lyrs=p&x={x}&y={y}&z={z}'
             })
         });
+
+        var lyr_G1 = new ol.layer.Tile({
+            'title': '©Kwanchai_Pakoksung',
+            'opacity': 1.000000,
+            
+           
+        });
+
 var lyr_colormap_2 = new ol.layer.Image({
         opacity: 1,
         
