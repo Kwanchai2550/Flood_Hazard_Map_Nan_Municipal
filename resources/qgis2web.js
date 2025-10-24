@@ -884,7 +884,7 @@ map.addControl(bottomAttribution);
 
 var attributionList = document.createElement('li');
 attributionList.innerHTML = `
-    <a href="https://github.com/qgis2web/qgis2web"> ©Kwanchai_Pakoksung</a> &middot;
+    <a href="https://kwanchai2550.github.io/Flood_Hazard_Map_Nan_Municipal/">©Kwanchai_Pakoksung</a> &middot;
 	<a href="https://github.com/qgis2web/qgis2web">qgis2web</a> &middot;
 	<a href="https://openlayers.org/">OpenLayers</a> &middot;
 	<a href="https://qgis.org/">QGIS</a>	
@@ -953,4 +953,5 @@ document.addEventListener('DOMContentLoaded', function() {
         bottomRightContainerDiv.appendChild(attributionControl);
 
     }
+
 
