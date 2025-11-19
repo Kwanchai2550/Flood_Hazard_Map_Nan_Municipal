@@ -137,7 +137,7 @@ var lyr_Duration_40_hrs__Depth_025_cm_8 = new ol.layer.Image({
 var lyr_Duration_40_hrs__Depth_010_cm_9 = new ol.layer.Image({
         opacity: 1,
         
-    title: 'Overflow Depth 0.10 m<br /><br />' ,
+    title: 'ความสูงน้ำล้นคันฯสูงสุด 0.10 m<br /><br />' ,
         
         
         source: new ol.source.ImageStatic({
