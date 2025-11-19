@@ -743,27 +743,27 @@ var group_Duration01hrs = new ol.layer.Group({
 var group_Duration05hrs = new ol.layer.Group({
                                 layers: [lyr_Duration_05_hrs__Depth_150_cm_38,lyr_Duration_05_hrs__Depth_125_cm_39,lyr_Duration_05_hrs__Depth_100_cm_40,lyr_Duration_05_hrs__Depth_075_cm_41,lyr_Duration_05_hrs__Depth_050_cm_42,lyr_Duration_05_hrs__Depth_025_cm_43,lyr_Duration_05_hrs__Depth_010_cm_44,],
                                 fold: 'close',
-                                title: 'Overflow Duration 05 hrs'});
+                                title: 'ระยะเวลาที่น้ำล้นคันฯ 05 ชม.'});
 var group_Duration10hrs = new ol.layer.Group({
                                 layers: [lyr_Duration_10_hrs__Depth_150_cm_31,lyr_Duration_10_hrs__Depth_125_cm_32,lyr_Duration_10_hrs__Depth_100_cm_33,lyr_Duration_10_hrs__Depth_075_cm_34,lyr_Duration_10_hrs__Depth_050_cm_35,lyr_Duration_10_hrs__Depth_025_cm_36,lyr_Duration_10_hrs__Depth_010_cm_37,],
                                 fold: 'close',
-                                title: 'Overflow Duration 10 hrs'});
+                                title: 'ระยะเวลาที่น้ำล้นคันฯ 10 ชม.'});
 var group_Duration15hrs = new ol.layer.Group({
                                 layers: [lyr_Duration_15_hrs__Depth_150_cm_24,lyr_Duration_15_hrs__Depth_125_cm_25,lyr_Duration_15_hrs__Depth_100_cm_26,lyr_Duration_15_hrs__Depth_075_cm_27,lyr_Duration_15_hrs__Depth_050_cm_28,lyr_Duration_15_hrs__Depth_025_cm_29,lyr_Duration_15_hrs__Depth_010_cm_30,],
                                 fold: 'close',
-                                title: 'Overflow Duration 15 hrs'});
+                                title: 'ระยะเวลาที่น้ำล้นคันฯ 15 ชม.'});
 var group_Duration20hrs = new ol.layer.Group({
                                 layers: [lyr_Duration_20_hrs__Depth_150_cm_17,lyr_Duration_20_hrs__Depth_125_cm_18,lyr_Duration_20_hrs__Depth_100_cm_19,lyr_Duration_20_hrs__Depth_075_cm_20,lyr_Duration_20_hrs__Depth_050_cm_21,lyr_Duration_20_hrs__Depth_025_cm_22,lyr_Duration_20_hrs__Depth_010_cm_23,],
                                 fold: 'close',
-                                title: 'Overflow Duration 20 hrs'});
+                                title: 'ระยะเวลาที่น้ำล้นคันฯ 20 ชม.'});
 var group_Duration30hrs = new ol.layer.Group({
                                 layers: [lyr_Duration_30_hrs__Depth_150_cm_10,lyr_Duration_30_hrs__Depth_125_cm_11,lyr_Duration_30_hrs__Depth_100_cm_12,lyr_Duration_30_hrs__Depth_075_cm_13,lyr_Duration_30_hrs__Depth_050_cm_14,lyr_Duration_30_hrs__Depth_025_cm_15,lyr_Duration_30_hrs__Depth_010_cm_16,],
                                 fold: 'close',
-                                title: 'Overflow Duration 30 hrs'});
+                                title: 'ระยะเวลาที่น้ำล้นคันฯ 30 ชม.'});
 var group_Duration40hrs = new ol.layer.Group({
                                 layers: [lyr_Duration_40_hrs__Depth_150_cm_3,lyr_Duration_40_hrs__Depth_125_cm_4,lyr_Duration_40_hrs__Depth_100_cm_5,lyr_Duration_40_hrs__Depth_075_cm_6,lyr_Duration_40_hrs__Depth_050_cm_7,lyr_Duration_40_hrs__Depth_025_cm_8,lyr_Duration_40_hrs__Depth_010_cm_9,],
                                 fold: 'close',
-                                title: 'Overflow Duration 40 hrs'});
+                                title: 'ระยะเวลาที่น้ำล้นคันฯ 40 ชม.'});
 
 lyr_GoogleSatellite_0.setVisible(true);lyr_GoogleTerrainHybrid_1.setVisible(true);lyr_colormap_2.setVisible(true);lyr_Duration_40_hrs__Depth_150_cm_3.setVisible(false);lyr_Duration_40_hrs__Depth_125_cm_4.setVisible(false);lyr_Duration_40_hrs__Depth_100_cm_5.setVisible(false);lyr_Duration_40_hrs__Depth_075_cm_6.setVisible(false);lyr_Duration_40_hrs__Depth_050_cm_7.setVisible(false);lyr_Duration_40_hrs__Depth_025_cm_8.setVisible(false);lyr_Duration_40_hrs__Depth_010_cm_9.setVisible(false);lyr_Duration_30_hrs__Depth_150_cm_10.setVisible(false);lyr_Duration_30_hrs__Depth_125_cm_11.setVisible(false);lyr_Duration_30_hrs__Depth_100_cm_12.setVisible(false);lyr_Duration_30_hrs__Depth_075_cm_13.setVisible(false);lyr_Duration_30_hrs__Depth_050_cm_14.setVisible(false);lyr_Duration_30_hrs__Depth_025_cm_15.setVisible(false);lyr_Duration_30_hrs__Depth_010_cm_16.setVisible(false);lyr_Duration_20_hrs__Depth_150_cm_17.setVisible(false);lyr_Duration_20_hrs__Depth_125_cm_18.setVisible(false);lyr_Duration_20_hrs__Depth_100_cm_19.setVisible(false);lyr_Duration_20_hrs__Depth_075_cm_20.setVisible(false);lyr_Duration_20_hrs__Depth_050_cm_21.setVisible(false);lyr_Duration_20_hrs__Depth_025_cm_22.setVisible(false);lyr_Duration_20_hrs__Depth_010_cm_23.setVisible(false);lyr_Duration_15_hrs__Depth_150_cm_24.setVisible(false);lyr_Duration_15_hrs__Depth_125_cm_25.setVisible(false);lyr_Duration_15_hrs__Depth_100_cm_26.setVisible(false);lyr_Duration_15_hrs__Depth_075_cm_27.setVisible(false);lyr_Duration_15_hrs__Depth_050_cm_28.setVisible(false);lyr_Duration_15_hrs__Depth_025_cm_29.setVisible(false);lyr_Duration_15_hrs__Depth_010_cm_30.setVisible(false);lyr_Duration_10_hrs__Depth_150_cm_31.setVisible(false);lyr_Duration_10_hrs__Depth_125_cm_32.setVisible(false);lyr_Duration_10_hrs__Depth_100_cm_33.setVisible(false);lyr_Duration_10_hrs__Depth_075_cm_34.setVisible(false);lyr_Duration_10_hrs__Depth_050_cm_35.setVisible(false);lyr_Duration_10_hrs__Depth_025_cm_36.setVisible(false);lyr_Duration_10_hrs__Depth_010_cm_37.setVisible(false);lyr_Duration_05_hrs__Depth_150_cm_38.setVisible(false);lyr_Duration_05_hrs__Depth_125_cm_39.setVisible(false);lyr_Duration_05_hrs__Depth_100_cm_40.setVisible(false);lyr_Duration_05_hrs__Depth_075_cm_41.setVisible(false);lyr_Duration_05_hrs__Depth_050_cm_42.setVisible(false);lyr_Duration_05_hrs__Depth_025_cm_43.setVisible(false);lyr_Duration_05_hrs__Depth_010_cm_44.setVisible(false);lyr_Duration_01_hrs__Depth_150_cm_45.setVisible(false);lyr_Duration_01_hrs__Depth_125_cm_46.setVisible(false);lyr_Duration_01_hrs__Depth_100_cm_47.setVisible(false);lyr_Duration_01_hrs__Depth_075_cm_48.setVisible(false);lyr_Duration_01_hrs__Depth_050_cm_49.setVisible(false);lyr_Duration_01_hrs__Depth_025_cm_50.setVisible(false);lyr_Duration_01_hrs__Depth_010_cm_51.setVisible(false);
 var layersList = [lyr_GoogleSatellite_0,lyr_GoogleTerrainHybrid_1,lyr_colormap_2,group_Duration40hrs,group_Duration30hrs,group_Duration20hrs,group_Duration15hrs,group_Duration10hrs,group_Duration05hrs,group_Duration01hrs];
