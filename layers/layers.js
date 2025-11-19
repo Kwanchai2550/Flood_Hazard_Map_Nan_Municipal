@@ -739,7 +739,7 @@ var lyr_Duration_01_hrs__Depth_010_cm_51 = new ol.layer.Image({
 var group_Duration01hrs = new ol.layer.Group({
                                 layers: [lyr_Duration_01_hrs__Depth_150_cm_45,lyr_Duration_01_hrs__Depth_125_cm_46,lyr_Duration_01_hrs__Depth_100_cm_47,lyr_Duration_01_hrs__Depth_075_cm_48,lyr_Duration_01_hrs__Depth_050_cm_49,lyr_Duration_01_hrs__Depth_025_cm_50,lyr_Duration_01_hrs__Depth_010_cm_51,],
                                 fold: 'close',
-                                title: 'Overflow Duration 01 hrs'});
+                                title: 'ระยะเวลาที่น้ำล้นคันฯ 01 ชม.'});
 var group_Duration05hrs = new ol.layer.Group({
                                 layers: [lyr_Duration_05_hrs__Depth_150_cm_38,lyr_Duration_05_hrs__Depth_125_cm_39,lyr_Duration_05_hrs__Depth_100_cm_40,lyr_Duration_05_hrs__Depth_075_cm_41,lyr_Duration_05_hrs__Depth_050_cm_42,lyr_Duration_05_hrs__Depth_025_cm_43,lyr_Duration_05_hrs__Depth_010_cm_44,],
                                 fold: 'close',
