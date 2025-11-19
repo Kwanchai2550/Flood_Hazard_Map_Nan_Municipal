@@ -53,7 +53,7 @@ var lyr_colormap_2 = new ol.layer.Image({
 var lyr_Duration_40_hrs__Depth_150_cm_3 = new ol.layer.Image({
         opacity: 1,
         
-    title: 'Overflow Depth 1.50 m<br /><br />' ,
+    title: 'ความสูงของระดับที่น้ำล้นคันฯสูงสุด 1.50 m<br /><br />' ,
         
         
         source: new ol.source.ImageStatic({
@@ -67,7 +67,7 @@ var lyr_Duration_40_hrs__Depth_150_cm_3 = new ol.layer.Image({
 var lyr_Duration_40_hrs__Depth_125_cm_4 = new ol.layer.Image({
         opacity: 1,
         
-    title: 'Overflow Depth 1.25 m<br /><br />' ,
+    title: 'ความสูงของระดับที่น้ำล้นคันฯสูงสุด 1.25 m<br /><br />' ,
         
         
         source: new ol.source.ImageStatic({
@@ -81,7 +81,7 @@ var lyr_Duration_40_hrs__Depth_125_cm_4 = new ol.layer.Image({
 var lyr_Duration_40_hrs__Depth_100_cm_5 = new ol.layer.Image({
         opacity: 1,
         
-    title: 'Overflow Depth 1.00 m<br /><br />' ,
+    title: 'ความสูงของระดับที่น้ำล้นคันฯสูงสุด 1.00 m<br /><br />' ,
         
         
         source: new ol.source.ImageStatic({
@@ -95,7 +95,7 @@ var lyr_Duration_40_hrs__Depth_100_cm_5 = new ol.layer.Image({
 var lyr_Duration_40_hrs__Depth_075_cm_6 = new ol.layer.Image({
         opacity: 1,
         
-    title: 'Overflow Depth 075 m<br /><br />' ,
+    title: 'ความสูงของระดับที่น้ำล้นคันฯสูงสุด 075 m<br /><br />' ,
         
         
         source: new ol.source.ImageStatic({
@@ -109,7 +109,7 @@ var lyr_Duration_40_hrs__Depth_075_cm_6 = new ol.layer.Image({
 var lyr_Duration_40_hrs__Depth_050_cm_7 = new ol.layer.Image({
         opacity: 1,
         
-    title: 'Overflow Depth 0.50 m<br /><br />' ,
+    title: 'ความสูงของระดับที่น้ำล้นคันฯสูงสุด 0.50 m<br /><br />' ,
         
         
         source: new ol.source.ImageStatic({
@@ -123,7 +123,7 @@ var lyr_Duration_40_hrs__Depth_050_cm_7 = new ol.layer.Image({
 var lyr_Duration_40_hrs__Depth_025_cm_8 = new ol.layer.Image({
         opacity: 1,
         
-    title: 'Overflow Depth 0.25 m<br /><br />' ,
+    title: 'ความสูงของระดับที่น้ำล้นคันฯสูงสุด 0.25 m<br /><br />' ,
         
         
         source: new ol.source.ImageStatic({
@@ -137,7 +137,7 @@ var lyr_Duration_40_hrs__Depth_025_cm_8 = new ol.layer.Image({
 var lyr_Duration_40_hrs__Depth_010_cm_9 = new ol.layer.Image({
         opacity: 1,
         
-    title: 'ความสูงน้ำล้นคันฯสูงสุด 0.10 m<br /><br />' ,
+    title: 'ความสูงของระดับที่น้ำล้นคันฯสูงสุด 0.10 m<br /><br />' ,
         
         
         source: new ol.source.ImageStatic({
