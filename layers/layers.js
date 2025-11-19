@@ -28,7 +28,7 @@ var wms_layers = [];
 var lyr_colormap_2 = new ol.layer.Image({
         opacity: 1,
         
-    title: 'colormap, m<br />\
+    title: 'ความลึกน้ำท่วม, m<br />\
     <img src="styles/legend/colormap_2_0.png" /> 0.0000<br />\
     <img src="styles/legend/colormap_2_1.png" /> 1.0000<br />\
     <img src="styles/legend/colormap_2_2.png" /> 2.0000<br />\
